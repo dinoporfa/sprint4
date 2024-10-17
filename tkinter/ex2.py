@@ -2,7 +2,7 @@ import tkinter as tk
 import sys
 
 root = tk.Tk()
-root.title('ex1')
+root.title('ex2')
 root.geometry("300x150")
 
 def etiqueta():
