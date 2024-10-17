@@ -1,5 +1,4 @@
 import tkinter as tk
-from os.path import exists
 
 root= tk.Tk()
 root.title('ex3')
