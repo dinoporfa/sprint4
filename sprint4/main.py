@@ -12,4 +12,5 @@ if __name__ == "__main__":
     model.difficulty('neutral')
     model.pname('heineken')
 
+    
     root.mainloop()

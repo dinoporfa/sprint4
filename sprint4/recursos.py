@@ -9,4 +9,3 @@ def descargar_imagen(url, size):
     except RequestException:
         print('URL error : a url '+url+' non contén unha imaxen válida')
         return None
-    
